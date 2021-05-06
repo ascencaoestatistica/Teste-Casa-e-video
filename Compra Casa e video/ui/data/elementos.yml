@@ -1,0 +1,5 @@
+barra_pesquisa: "input[placeholder='Digite Aqui']"
+lupa_pesquisa: "input[value='Buscar']" 
+imagem_produto: "img[class='nm-product-img']"
+adicionar_carrinho: "a[class='buy-in-page-button']"
+fechar_pedido: "div[class='cartTotal']"
